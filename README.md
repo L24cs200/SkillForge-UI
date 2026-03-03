@@ -5,9 +5,11 @@ This project focuses on delivering a premium UI/UX experience with advanced anim
 
 ---
 
+
 ## 🌐 Live Demo
 
-🔗 https://l24cs200.github.io/SkillForge-UI/
+🔗 **[Live on GithubPages]( https://l24cs200.github.io/SkillForge-UI/
+)**
 
 ---
 
